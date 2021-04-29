@@ -17,3 +17,6 @@ C:\Universidad\Certificación I\P3\PR3\obj\Debug\netcoreapp3.1\PR3.RazorTargetAs
 C:\Universidad\Certificación I\P3\PR3\obj\Debug\netcoreapp3.1\PR3.dll
 C:\Universidad\Certificación I\P3\PR3\obj\Debug\netcoreapp3.1\PR3.pdb
 C:\Universidad\Certificación I\P3\PR3\obj\Debug\netcoreapp3.1\PR3.genruntimeconfig.cache
+C:\Universidad\Certificación I\P3\PR3\obj\Debug\netcoreapp3.1\PR3.csprojAssemblyReference.cache
+C:\Universidad\Certificación I\P3\PR3\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Universidad\Certificación I\P3\PR3\bin\Debug\netcoreapp3.1\appsettings.QA.json
